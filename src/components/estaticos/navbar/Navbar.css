@@ -1,0 +1,28 @@
+.cursor{
+    cursor: pointer;
+    color: white;
+
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+.conteudo{
+    background-color: rgb(94, 203, 222) !important;
+}
+ 
+.color1{
+    background-color:black !important;
+}
+.cor {
+    background-color:darkslateblue !important;
+
+}
+.foto{
+    width: 75px;}
+
+.menu :hover {
+    font-size: 25px;
+color:rgb(230, 5, 31);
+
+}

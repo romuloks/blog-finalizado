@@ -1,0 +1,14 @@
+.titulo{
+    font-weight: bold;
+ }
+ .fundo{
+    background-color:#3f5185 !important;
+ }
+ .redondo{
+    border-radius: 360px;
+ }
+ .frase{
+   color: blue !important;
+ }
+
+ 

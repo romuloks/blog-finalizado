@@ -1,0 +1,21 @@
+.box1{
+    background-color:aqua;
+    height: 120px;
+}
+
+.box2{
+    background-color:aqua;
+    height: 60px;
+}
+
+.redes{
+    font-size: 60px;
+    color: rgb(241, 4, 4);
+}
+.textos{
+    color:black;
+}
+
+.fundo{
+    background-color: aqua;
+}
